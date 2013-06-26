@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "DataURI2Image",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Data URI schemeがどんな画像なのか、data:image/png;base64,xxxのような文字列から目で見て分かる画像を生成し確認できる拡張機能です。",
+    "description": "The description of the application"
+  }
+}
